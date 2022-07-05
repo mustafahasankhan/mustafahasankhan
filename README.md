@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa.</h1>
 <h3 align="center">An avid coding enthusiast.</h3>
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
+![](https://komarev.com/ghpvc/?username=mustafahasankhan)
 
 - 🌱 I’m currently learning **React**
 
