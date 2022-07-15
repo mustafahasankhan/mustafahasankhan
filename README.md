@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [mustafahasankhan.com](mustafahasankhan.com)
+- 👨‍💻 All of my projects are available at [https://mustafahasankhan.com](mustafahasankhan.com)
 
-- 📝 I regularly write articles on [mustafahasankhan.com/blog](mustafahasankhan.com/blog)
+- 📝 I regularly write articles on [https://mustafahasankhan.com/blog](mustafahasankhan.com/blog)
 
 - 💬 Ask me about **Laravel**
 
