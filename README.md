@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mustafahasankhan)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Svelte**
 
 - 👨‍💻 All of my projects are available at [mustafahasankhan.com](https://mustafahasankhan.com)
 
