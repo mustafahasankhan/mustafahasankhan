@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mustafahasankhan)
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently working as an Intern at **Atlan**
 
 - 👨‍💻 All of my projects are available at [mustafahasankhan.com](https://mustafahasankhan.com)
 
