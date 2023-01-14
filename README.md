@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Crypto.**
 
-- 📫 How to reach me **mustafahasankhan@protonmail.com**
+- 📫 How to reach me **myselfmustafakhan@gmail.com**
 
 - 📄 Know about my experiences [mustafahasankhan.com/resume.pdf](https://mustafahasankhan.com/resume.pdf)
 
