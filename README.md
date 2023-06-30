@@ -5,21 +5,21 @@
 
 - 🌱 I’m currently working as a SWE at **Atlan**
 
-- 👨‍💻 All of my projects are available at [mustafahasankhan.com](https://mustafahasankhan.com)
+- 👨‍💻 All of my projects are available at [mustafahasankhan.xyz](https://mustafahasankhan.xyz)
 
-- 📝 I regularly (not actually) write articles on [mustafahasankhan.com/blog](https://mustafahasankhan.com/blog)
+- 📝 I regularly (not actually) write articles on [mustafahasankhan.xyz/blog](https://mustafahasankhan.xyz/blog)
 
 - 💬 Ask me about **Crypto.**
 
 - 📫 How to reach me **myselfmustafakhan@gmail.com**
 
-- 📄 Know about my experiences [mustafahasankhan.com/resume.pdf](https://mustafahasankhan.com/resume.pdf)
+- 📄 Know about my experiences [mustafahasankhan.xyz/resume.pdf](https://mustafahasankhan.xyz/resume.pdf)
 
 - ⚡ Fun fact **I only code or game, with memes in between them.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <code><a href="https://mustafahasankhan.com/" title="Mustafa's Portfolio"><img width="40" alt="Mustafa's Portfolio" src="https://user-images.githubusercontent.com/81975567/175559971-8edbc18d-a0ce-4da4-82e4-027cbc706cb8.png"></a></code>
+  <code><a href="https://mustafahasankhan.xyz/" title="Mustafa's Portfolio"><img width="40" alt="Mustafa's Portfolio" src="https://user-images.githubusercontent.com/81975567/175559971-8edbc18d-a0ce-4da4-82e4-027cbc706cb8.png"></a></code>
 <code><a href="https://www.linkedin.com/in/mustafahasankhan/" title="Mustafa's linkedin"><img width="40" alt="Mustafa's LinkedIn"src="https://user-images.githubusercontent.com/81975567/175559225-b4b11f66-e5f9-4c4d-b93c-ae0551606ab1.png"></a></code>
 <code><a href="https://twitter.com/mustafahkhan" title="Mustafa's Twitter"><img width="40" alt="Mustafa's Twitter"src="https://user-images.githubusercontent.com/81975567/175558969-524b17fe-499a-4604-b065-5d58c35ce96b.png"></a></code>
 
