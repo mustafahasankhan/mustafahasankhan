@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mustafahasankhan)
 
-- 🌱 I’m currently working as a SWE at **Atlan**
+- 🌱 I’m currently working as a Senior Software Engineer at **Atlan**
 
 - 👨‍💻 All of my projects are available at [mustafahasankhan.xyz](https://mustafahasankhan.xyz)
 
